@@ -37,6 +37,7 @@ body {
   grid-area: content;
   overflow-y: auto;
   overflow-x: hidden;
+  padding: 5px;
 }
 .wrapper > footer {
   grid-area: footer;
